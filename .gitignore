@@ -39,5 +39,4 @@ hs_err_pid*
 .idea/misc.xml
 .idea/vcs.xml
 jsoupDemo.iml
-pom.xml
 target/
